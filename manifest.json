@@ -2479,6 +2479,12 @@
     },
     "LAB_TRACKER_APP.R": {
       "checksum": "362b808c84747ffc6d52018251a14e1d"
+    },
+    "lab_tracker_settings.R": {
+      "checksum": "2cdf1b82d6552bdf38b33e0475a4f04d"
+    },
+    "lab_tracker_users.csv": {
+      "checksum": "974ebdc0801eff82940c44708ea04f3e"
     }
   },
   "users": null
